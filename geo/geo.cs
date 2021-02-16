@@ -24,6 +24,9 @@ namespace Площадь_треугольника
  
  
             {
+                if ((b*b + c*c == a*a) || (a*a + c*c == b*b) ||(b*b + a*a == c*c))
+                  Console.WriteLine("Треугольник прямоугольный");
+                 else Console.WriteLine("Треугольник не прямоугольный");
                 double p;
                 double S;
                 double A;

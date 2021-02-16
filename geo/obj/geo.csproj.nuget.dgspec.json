@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/geo/geo.csproj": {}
+    "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/ForMindbox/ForMindbox/geo/geo.csproj": {}
   },
   "projects": {
-    "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/geo/geo.csproj": {
+    "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/ForMindbox/ForMindbox/geo/geo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/geo/geo.csproj",
+        "projectUniqueName": "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/ForMindbox/ForMindbox/geo/geo.csproj",
         "projectName": "geo",
-        "projectPath": "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/geo/geo.csproj",
+        "projectPath": "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/ForMindbox/ForMindbox/geo/geo.csproj",
         "packagesPath": "/home/sofia/.nuget/packages/",
-        "outputPath": "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/geo/obj/",
+        "outputPath": "/home/sofia/Рабочий стол/HOBBY/Test/frontend-javascript-test/ForMindbox/ForMindbox/geo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sofia/.nuget/NuGet/NuGet.Config"
